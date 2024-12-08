@@ -14,7 +14,7 @@ let songs = [
     { songName: "BlueEyes-Yo Yo Honey Singh", filePath: "songs/2.mp3 ", coverPath: "covers/BlueEyes.jpg" },
     { songName: "Desi-Kalakaar-Yo Yo Honey SIngh", filePath: "songs/3.mp3", coverPath: "covers/desikalakar.webp" },
     { songName: "Zara Sa--KK,Prittam", filePath: "songs/4.mp3", coverPath: "covers/jarasa.webp" },
-    { songName: "Despacito---Luis-Fonsi", filePath: "songs/5.mp3", coverPath: "covers/Despacito.webp" },
+    { songName: "Despacito---Luis-Fonsi", filePath: "songs/5.mp3", coverPath: "covers/despacito.jpg" },
 ]
 
 songItems.forEach((element, i) => {
