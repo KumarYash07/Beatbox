@@ -110,6 +110,7 @@ i{
     display: flex;
     justify-content: space-between;
 }
+
 .volumebar {
     display: flex;
     flex-direction: column; 
