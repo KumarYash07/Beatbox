@@ -115,12 +115,11 @@ i{
     display: flex;
     flex-direction: column; 
     align-items: center; 
-    justify-content: flex-end;
     position: absolute;
     right: 12vw; 
     width: 55vh; 
-    height: 60px; 
-    padding-top: 20px;
+    height: 1vh; 
+    padding-top: 2px;
     gap: 10px;
 }
 
@@ -131,7 +130,7 @@ i{
 
 #volumeMute {
     position: absolute;
-    top:34px; 
+    top:-1px; 
     right: 420px; 
     background: none; 
     border: none; 
